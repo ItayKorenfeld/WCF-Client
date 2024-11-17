@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary/Service1/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary/Service1/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary/Service1/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Model" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_SelectAllStudents_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllStudents" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllStudents_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllStudentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllHousekeepers_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllHousekeepers" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllHousekeepers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllHousekeepersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllTools_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllTools" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllTools_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllToolsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllProblems_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllProblems" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllProblems_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllProblemsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllSchools_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllSchools" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllSchools_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllSchoolsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllClass_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllClass" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllClass_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllClassResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertAClass_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAClass" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertAClass_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAClassResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertAStudent_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAStudent" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertAStudent_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAStudentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertAHouseKeeper_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAHouseKeeper" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertAHouseKeeper_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAHouseKeeperResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertAProblem_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAProblem" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertAProblem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAProblemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertASchool_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertASchool" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertASchool_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertASchoolResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertAToolName_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAToolName" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertAToolName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAToolNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertATool_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertATool" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertATool_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAToolResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateStudent_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateStudent" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateStudent_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateStudentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateHouseKeeper_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateHouseKeeper" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateHouseKeeper_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateHouseKeeperResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateProblem_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateProblem" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateProblem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateProblemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateClass_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateClass" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateClass_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateClassResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateSchool_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateSchool" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateSchool_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateSchoolResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateToolName_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateToolName" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateToolName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateToolNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateTool_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTool" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateTool_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateToolResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteStudent_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteStudent" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteStudent_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteStudentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteHouseKeeper_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteHouseKeeper" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteHouseKeeper_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteHouseKeeperResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteProblem_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteProblem" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteProblem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteProblemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteClass_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteClass" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteClass_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteClassResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteSchool_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteSchool" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteSchool_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteSchoolResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteToolName_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteToolName" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteToolName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteToolNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteTool_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteTool" />
+  </wsdl:message>
+  <wsdl:message name="IService1_DeleteTool_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteToolResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Login_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Login_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Login1_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login1" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Login1_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Login1Response" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllProblemsSameSchoolh_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllProblemsSameSchoolh" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllProblemsSameSchoolh_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllProblemsSameSchoolhResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllProblemsSameSchools_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllProblemsSameSchools" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllProblemsSameSchools_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllProblemsSameSchoolsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectclassByID_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectclassByID" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectclassByID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectclassByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllToolName_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllToolName" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectAllToolName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectAllToolNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectProblemsFilter_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectProblemsFilter" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectProblemsFilter_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectProblemsFilterResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="SelectAllStudents">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllStudents" message="tns:IService1_SelectAllStudents_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllStudentsResponse" message="tns:IService1_SelectAllStudents_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllHousekeepers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllHousekeepers" message="tns:IService1_SelectAllHousekeepers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllHousekeepersResponse" message="tns:IService1_SelectAllHousekeepers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllTools">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllTools" message="tns:IService1_SelectAllTools_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllToolsResponse" message="tns:IService1_SelectAllTools_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllProblems">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllProblems" message="tns:IService1_SelectAllProblems_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllProblemsResponse" message="tns:IService1_SelectAllProblems_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllSchools">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllSchools" message="tns:IService1_SelectAllSchools_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllSchoolsResponse" message="tns:IService1_SelectAllSchools_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllClass">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllClass" message="tns:IService1_SelectAllClass_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllClassResponse" message="tns:IService1_SelectAllClass_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertAClass">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertAClass" message="tns:IService1_InsertAClass_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertAClassResponse" message="tns:IService1_InsertAClass_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertAStudent">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertAStudent" message="tns:IService1_InsertAStudent_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertAStudentResponse" message="tns:IService1_InsertAStudent_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertAHouseKeeper">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertAHouseKeeper" message="tns:IService1_InsertAHouseKeeper_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertAHouseKeeperResponse" message="tns:IService1_InsertAHouseKeeper_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertAProblem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertAProblem" message="tns:IService1_InsertAProblem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertAProblemResponse" message="tns:IService1_InsertAProblem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertASchool">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertASchool" message="tns:IService1_InsertASchool_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertASchoolResponse" message="tns:IService1_InsertASchool_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertAToolName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertAToolName" message="tns:IService1_InsertAToolName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertAToolNameResponse" message="tns:IService1_InsertAToolName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertATool">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertATool" message="tns:IService1_InsertATool_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertAToolResponse" message="tns:IService1_InsertATool_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateStudent">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateStudent" message="tns:IService1_UpdateStudent_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateStudentResponse" message="tns:IService1_UpdateStudent_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateHouseKeeper">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateHouseKeeper" message="tns:IService1_UpdateHouseKeeper_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateHouseKeeperResponse" message="tns:IService1_UpdateHouseKeeper_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateProblem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateProblem" message="tns:IService1_UpdateProblem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateProblemResponse" message="tns:IService1_UpdateProblem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateClass">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateClass" message="tns:IService1_UpdateClass_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateClassResponse" message="tns:IService1_UpdateClass_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSchool">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateSchool" message="tns:IService1_UpdateSchool_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateSchoolResponse" message="tns:IService1_UpdateSchool_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateToolName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateToolName" message="tns:IService1_UpdateToolName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateToolNameResponse" message="tns:IService1_UpdateToolName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTool">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateTool" message="tns:IService1_UpdateTool_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateToolResponse" message="tns:IService1_UpdateTool_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteStudent">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteStudent" message="tns:IService1_DeleteStudent_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteStudentResponse" message="tns:IService1_DeleteStudent_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteHouseKeeper">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteHouseKeeper" message="tns:IService1_DeleteHouseKeeper_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteHouseKeeperResponse" message="tns:IService1_DeleteHouseKeeper_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteProblem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteProblem" message="tns:IService1_DeleteProblem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteProblemResponse" message="tns:IService1_DeleteProblem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteClass">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteClass" message="tns:IService1_DeleteClass_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteClassResponse" message="tns:IService1_DeleteClass_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteSchool">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteSchool" message="tns:IService1_DeleteSchool_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteSchoolResponse" message="tns:IService1_DeleteSchool_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteToolName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteToolName" message="tns:IService1_DeleteToolName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteToolNameResponse" message="tns:IService1_DeleteToolName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteTool">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/DeleteTool" message="tns:IService1_DeleteTool_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/DeleteToolResponse" message="tns:IService1_DeleteTool_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Login" message="tns:IService1_Login_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/LoginResponse" message="tns:IService1_Login_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Login1">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Login1" message="tns:IService1_Login1_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/Login1Response" message="tns:IService1_Login1_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllProblemsSameSchoolh">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllProblemsSameSchoolh" message="tns:IService1_SelectAllProblemsSameSchoolh_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllProblemsSameSchoolhResponse" message="tns:IService1_SelectAllProblemsSameSchoolh_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllProblemsSameSchools">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllProblemsSameSchools" message="tns:IService1_SelectAllProblemsSameSchools_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllProblemsSameSchoolsResponse" message="tns:IService1_SelectAllProblemsSameSchools_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectclassByID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectclassByID" message="tns:IService1_SelectclassByID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectclassByIDResponse" message="tns:IService1_SelectclassByID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllToolName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectAllToolName" message="tns:IService1_SelectAllToolName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectAllToolNameResponse" message="tns:IService1_SelectAllToolName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectProblemsFilter">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectProblemsFilter" message="tns:IService1_SelectProblemsFilter_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectProblemsFilterResponse" message="tns:IService1_SelectProblemsFilter_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SelectAllStudents">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllStudents" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllHousekeepers">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllHousekeepers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllTools">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllTools" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllProblems">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllProblems" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllSchools">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllSchools" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllClass">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllClass" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertAClass">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertAClass" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertAStudent">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertAStudent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertAHouseKeeper">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertAHouseKeeper" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertAProblem">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertAProblem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertASchool">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertASchool" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertAToolName">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertAToolName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertATool">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertATool" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateStudent">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateStudent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateHouseKeeper">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateHouseKeeper" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateProblem">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateProblem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateClass">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateClass" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateSchool">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateSchool" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateToolName">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateToolName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTool">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateTool" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteStudent">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteStudent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteHouseKeeper">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteHouseKeeper" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteProblem">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteProblem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteClass">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteClass" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteSchool">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteSchool" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteToolName">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteToolName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteTool">
+      <soap:operation soapAction="http://tempuri.org/IService1/DeleteTool" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://tempuri.org/IService1/Login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Login1">
+      <soap:operation soapAction="http://tempuri.org/IService1/Login1" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllProblemsSameSchoolh">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllProblemsSameSchoolh" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllProblemsSameSchools">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllProblemsSameSchools" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectclassByID">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectclassByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectAllToolName">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectAllToolName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectProblemsFilter">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectProblemsFilter" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/WcfServiceLibrary/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,7 @@
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1.Android\obj\Debug\90\build.props
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1.Android\obj\Debug\90\adb.props
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1.Android\obj\Debug\90\App1.Android.csprojAssemblyReference.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1.Android\obj\Debug\90\res.flag

@@ -1,0 +1,78 @@
+C:\Users\Teacher\Desktop\Model\stam\bin\Debug\housekeeper_final.accdb
+C:\Users\Teacher\Desktop\Model\stam\bin\Debug\stam.exe.config
+C:\Users\Teacher\Desktop\Model\stam\bin\Debug\stam.exe
+C:\Users\Teacher\Desktop\Model\stam\bin\Debug\stam.pdb
+C:\Users\Teacher\Desktop\Model\stam\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\Model\stam\bin\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\Model\stam\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\Model\stam\bin\Debug\ViewModel.pdb
+C:\Users\Teacher\Desktop\Model\stam\obj\Debug\stam.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\Model\stam\obj\Debug\stam.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Model\stam\obj\Debug\stam.csproj.CopyComplete
+C:\Users\Teacher\Desktop\Model\stam\obj\Debug\stam.exe
+C:\Users\Teacher\Desktop\Model\stam\obj\Debug\stam.pdb
+C:\Users\Teacher\Downloads\Model\stam\bin\Debug\housekeeper_final.accdb
+C:\Users\Teacher\Downloads\Model\stam\bin\Debug\stam.exe.config
+C:\Users\Teacher\Downloads\Model\stam\bin\Debug\stam.exe
+C:\Users\Teacher\Downloads\Model\stam\bin\Debug\stam.pdb
+C:\Users\Teacher\Downloads\Model\stam\bin\Debug\Model.dll
+C:\Users\Teacher\Downloads\Model\stam\bin\Debug\ViewModel.dll
+C:\Users\Teacher\Downloads\Model\stam\bin\Debug\Model.pdb
+C:\Users\Teacher\Downloads\Model\stam\bin\Debug\ViewModel.pdb
+C:\Users\Teacher\Downloads\Model\stam\obj\Debug\stam.csprojAssemblyReference.cache
+C:\Users\Teacher\Downloads\Model\stam\obj\Debug\stam.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Downloads\Model\stam\obj\Debug\stam.csproj.CopyComplete
+C:\Users\Teacher\Downloads\Model\stam\obj\Debug\stam.exe
+C:\Users\Teacher\Downloads\Model\stam\obj\Debug\stam.pdb
+D:\Model\stam\obj\Debug\stam.csprojAssemblyReference.cache
+D:\Model\stam\obj\Debug\stam.csproj.CoreCompileInputs.cache
+D:\Model\stam\obj\Debug\stam.exe
+D:\Model\stam\obj\Debug\stam.pdb
+D:\Model\stam\bin\Debug\housekeeper_final.accdb
+D:\Model\stam\bin\Debug\stam.exe.config
+D:\Model\stam\bin\Debug\stam.exe
+D:\Model\stam\bin\Debug\stam.pdb
+D:\Model\stam\bin\Debug\Model.dll
+D:\Model\stam\bin\Debug\ViewModel.dll
+D:\Model\stam\bin\Debug\Model.pdb
+D:\Model\stam\bin\Debug\ViewModel.pdb
+D:\Model\stam\obj\Debug\stam.csproj.CopyComplete
+C:\Users\Teacher\Desktop\Model121\stam\bin\Debug\housekeeper_final.accdb
+C:\Users\Teacher\Desktop\Model121\stam\bin\Debug\stam.exe.config
+C:\Users\Teacher\Desktop\Model121\stam\bin\Debug\stam.exe
+C:\Users\Teacher\Desktop\Model121\stam\bin\Debug\stam.pdb
+C:\Users\Teacher\Desktop\Model121\stam\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\Model121\stam\bin\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\Model121\stam\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\Model121\stam\bin\Debug\ViewModel.pdb
+C:\Users\Teacher\Desktop\Model121\stam\obj\Debug\stam.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\Model121\stam\obj\Debug\stam.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Model121\stam\obj\Debug\stam.csproj.CopyComplete
+C:\Users\Teacher\Desktop\Model121\stam\obj\Debug\stam.exe
+C:\Users\Teacher\Desktop\Model121\stam\obj\Debug\stam.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\bin\Debug\housekeeper_final.accdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\bin\Debug\stam.exe.config
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\bin\Debug\stam.exe
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\bin\Debug\stam.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\bin\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\bin\Debug\ViewModel.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\obj\Debug\stam.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\obj\Debug\stam.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\obj\Debug\stam.csproj.CopyComplete
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\obj\Debug\stam.exe
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\stam\obj\Debug\stam.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\bin\Debug\housekeeper_final.accdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\bin\Debug\stam.exe.config
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\bin\Debug\stam.exe
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\bin\Debug\stam.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\bin\Debug\Model.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\bin\Debug\ViewModel.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\bin\Debug\Model.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\bin\Debug\ViewModel.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\obj\Debug\stam.csprojAssemblyReference.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\obj\Debug\stam.csproj.CoreCompileInputs.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\obj\Debug\stam.csproj.CopyComplete
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\obj\Debug\stam.exe
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\stam\obj\Debug\stam.pdb

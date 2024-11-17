@@ -1,0 +1,30 @@
+C:\Users\Teacher\Desktop\Model\Model\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\Model\Model\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\Model\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\Model\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Model\Model\obj\Debug\Model.dll
+C:\Users\Teacher\Desktop\Model\Model\obj\Debug\Model.pdb
+C:\Users\Teacher\Downloads\Model\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Teacher\Downloads\Model\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Downloads\Model\Model\obj\Debug\Model.dll
+C:\Users\Teacher\Downloads\Model\Model\obj\Debug\Model.pdb
+C:\Users\Teacher\Downloads\Model\Model\bin\Debug\Model.dll
+C:\Users\Teacher\Downloads\Model\Model\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\Model121\Model\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\Model121\Model\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\Model121\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\Model121\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Model121\Model\obj\Debug\Model.dll
+C:\Users\Teacher\Desktop\Model121\Model\obj\Debug\Model.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Model\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Model\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Model\obj\Debug\Model.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Model\obj\Debug\Model.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Model\bin\Debug\Model.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Model\bin\Debug\Model.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Model\obj\Debug\Model.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Model\obj\Debug\Model.pdb

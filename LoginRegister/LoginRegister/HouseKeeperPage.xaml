@@ -1,0 +1,77 @@
+﻿<Page x:Class="LoginRegister.HouseKeeperPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LoginRegister"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="HouseKeeperPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="71*"/>
+            <RowDefinition Height="60*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="txtb2" FontSize="50" TextAlignment="Center" Foreground="Beige" Grid.RowSpan="2"></TextBlock>
+        <ListView Name="lstv" Grid.Row="1">
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Solved" Click="MenuItem_Click"/>
+                    <MenuItem Header="Set Date" Click="MenuItem_Click_1"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+
+            <ListView.View>
+
+                <GridView >
+
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Classs.ClassName}" Header="Class Name" Width="100"/>
+
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Student.FirstName}" Header="Student Name" Width="100"/>
+
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Tools.ToolName.ToolName1}" Header="Tool Name" Width="100"/>
+
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Description}" Header="Description" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Id}" Header="Prob ID" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SolvingTime}" Header="Solving Time" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=Issolved}" Header="Is Solved" Width="100"/>
+                </GridView>
+
+            </ListView.View>
+
+        </ListView>
+        <!--<ComboBox x:Name="cmb" Width="100" Height="20" HorizontalAlignment="Left" Margin="10,0,0,145" Grid.Row="2"  >
+
+
+        </ComboBox>-->
+        <Button x:Name="updatebt" Visibility="Hidden" Grid.Row="2" Margin="554,57,138,52" Content="Update Date" Background="Green" Click="Button_Click"/>
+        <Button x:Name="cancel" Visibility="Hidden" Grid.Row="2" Margin="153,49,506,43" Content="cancel" Background="Red" Click="Cancel_Click"/>
+        <Calendar x:Name="clr1" Margin="325,0,268,10" Grid.Row="2" Visibility="Hidden"/>
+        <Button x:Name="button10"
+            Width="155"
+            Height="50"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            
+            Click="Button10_Click"
+            Content="Log out" Background="Yellow" Grid.Row="2" Margin="645,55,0,0" />
+        <Button x:Name="button11"
+            Width="155"
+            Height="50"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            
+            Click="Button11_Click"
+            Content="Enter Tool" Background="AliceBlue" Grid.Row="2" Margin="37,55,608,0" />
+        <Button x:Name="button15"
+            Width="155"
+            Height="50"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            
+            Click="button15_Click"
+            Content="Class list" Background="Turquoise" Visibility="Visible" Grid.Row="2" Margin="334,55,311,0" />
+    </Grid>
+</Page>

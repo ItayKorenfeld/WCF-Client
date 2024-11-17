@@ -1,0 +1,46 @@
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\bin\Debug\housekeeper_final.accdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\bin\Debug\Host1.exe.config
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\bin\Debug\Host1.exe
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\bin\Debug\Host1.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\bin\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\bin\Debug\ViewModel.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\Host1.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\MainWindow.g.cs
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\App.g.cs
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\Host1_MarkupCompile.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\Host1_MarkupCompile.lref
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\MainWindow.baml
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\Host1.g.resources
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\Host1.Properties.Resources.resources
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\Host1.csproj.GenerateResource.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\Host1.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\Host1.csproj.CopyComplete
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\Host1.exe
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\Host1\obj\Debug\Host1.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\bin\Debug\housekeeper_final.accdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\bin\Debug\Host1.exe.config
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\bin\Debug\Host1.exe
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\bin\Debug\Host1.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\bin\Debug\Model.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\bin\Debug\ViewModel.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\bin\Debug\WcfServiceLibrary.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\bin\Debug\Model.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\bin\Debug\ViewModel.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\bin\Debug\WcfServiceLibrary.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\Host1.csprojAssemblyReference.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\MainWindow.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\App.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\Host1_MarkupCompile.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\Host1_MarkupCompile.lref
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\MainWindow.baml
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\Host1.g.resources
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\Host1.Properties.Resources.resources
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\Host1.csproj.GenerateResource.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\Host1.csproj.CoreCompileInputs.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\Host1.csproj.CopyComplete
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\Host1.exe
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\Host1\obj\Debug\Host1.pdb

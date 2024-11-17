@@ -1,0 +1,121 @@
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csprojAssemblyReference.cache
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\Login.g.cs
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginOrRegister.g.cs
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\MainPage.g.cs
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\MainWindow.g.cs
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\Register.g.cs
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\App.g.cs
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister_MarkupCompile.cache
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister_MarkupCompile.lref
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\Login.baml
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginOrRegister.baml
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\MainWindow.baml
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\Register.baml
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\MainPage.baml
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.g.resources
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\LoginRegister.pdb
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\HouseKeeperPage.g.cs
+C:\Users\Teacher\source\repos\LoginRegister\LoginRegister\obj\Debug\HouseKeeperPage.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe.config
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\bin\Debug\LoginRegister.pdb
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\HouseKeeperPage.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\Login.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginOrRegister.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\MainPage.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\MainWindow.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\Register.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\App.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginRegister_MarkupCompile.cache
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginRegister_MarkupCompile.lref
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\HouseKeeperPage.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\Login.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginOrRegister.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\MainPage.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\MainWindow.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\Register.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginRegister.g.resources
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginRegister.exe
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginRegister.pdb
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\RegisterHouseKeeper.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\RegisterHouseKeeper.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\App.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\ProblemsUC.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\StudentProblemsList.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\ProblemsUC.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\StudentProblemsList.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\ProblemsUC1.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\ProblemsUC1.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\ReportList.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\ReportList.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\InsertTool.g.cs
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\InsertTool.baml
+C:\Users\Teacher\Desktop\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csprojAssemblyReference.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe.config
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\LoginRegister.exe
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\LoginRegister.pdb
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\HouseKeeperPage.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\InsertTool.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\Login.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginOrRegister.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\MainPage.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\MainWindow.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\Register.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\RegisterHouseKeeper.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\ReportList.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\StudentProblemsList.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\App.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginRegister_MarkupCompile.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginRegister_MarkupCompile.lref
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\App.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\HouseKeeperPage.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\InsertTool.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\Login.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginOrRegister.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\MainPage.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\MainWindow.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\Register.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\RegisterHouseKeeper.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\ReportList.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\StudentProblemsList.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginRegister.g.resources
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginRegister.Properties.Resources.resources
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.GenerateResource.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CoreCompileInputs.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginRegister.exe
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginRegister.pdb
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\Classlst.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\StudentsUC.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\Classlst.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\StudentsUC.baml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csprojAssemblyReference.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\LoginRegister\obj\Debug\LoginRegister.csproj.CopyComplete

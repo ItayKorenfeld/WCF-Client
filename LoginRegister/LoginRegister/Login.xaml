@@ -1,0 +1,91 @@
+﻿<Page x:Class="LoginRegister.Login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LoginRegister"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Login">
+
+    <Grid Background="Azure">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   TextAlignment="Center"
+                   FontSize="25"
+                   Text="Login" Foreground="Coral" Margin="346,10,307,40" Width="147" RenderTransformOrigin="0.493,0.586" Height="40" />
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,23,0,0" >
+            <TextBlock Foreground="DimGray" Text="PhoneNum :" FontSize="30" Width="200" VerticalAlignment="Center"/>
+            <TextBox x:Name="textBox"
+                 Grid.Row="1"
+                 Width="120"
+                 Height="23"
+                 Text=""
+                 TextWrapping="Wrap" />
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" >
+            <TextBlock Foreground="DimGray" Text="Password :" FontSize="30" Width="200" VerticalAlignment="Center"/>
+            <PasswordBox x:Name="passwordBox"
+                     Grid.Row="2"
+                     Width="117"
+                     Height="25"
+                     Password="" />
+        </StackPanel>
+
+        <Button x:Name="button"
+                Grid.Row="3"
+                Width="75"
+                Height="50"
+                Click="button_Click"
+                Content="Login" />
+        <TextBlock x:Name="textBlock"
+                   Grid.Row="2" Foreground="Red" FontSize="20"
+                   TextWrapping="Wrap"  HorizontalAlignment="Right"
+                   Visibility="Visible" TextAlignment="Center" />
+
+        <Button x:Name="button3"
+                Grid.Row="4"
+                Width="55"
+                Height="30"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Top"
+                Margin="0,10,10,0"
+                Click="button3_Click"
+                Content="Fill" />
+        <Button x:Name="button5"
+                Grid.Row="4"
+                Width="55"
+                Height="30"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="0,10,10,0"
+                Click="Button5_Click"
+                Content="Fillh" />
+        <Button x:Name="button4"
+            Grid.Row="4"
+            Width="120"
+            Height="30"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Margin="10,10,0,0"
+            Click="button4_Click"
+            Content="Navigate To Menu" />
+        <TextBlock Margin="10,35,629,10" FontSize="30" Foreground="DimGray"> Who is this:</TextBlock>
+        <ComboBox x:Name="cmb" Width="100" HorizontalAlignment="Left" Margin="214,45,0,10"  >
+            <ComboBoxItem x:Name="student2" Content="student"></ComboBoxItem>
+            <ComboBoxItem x:Name="housekeeper2" Content="housekeeper"></ComboBoxItem>
+
+        </ComboBox>
+
+
+    </Grid>
+</Page>

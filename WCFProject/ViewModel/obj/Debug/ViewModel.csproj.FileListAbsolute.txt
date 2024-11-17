@@ -1,0 +1,60 @@
+C:\Users\Teacher\Desktop\Model\ViewModel\bin\Debug\housekeeper_final.accdb
+C:\Users\Teacher\Desktop\Model\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\Model\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Teacher\Desktop\Model\ViewModel\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\Model\ViewModel\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\Model\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\Model\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Model\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\Teacher\Desktop\Model\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\Model\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Teacher\Downloads\Model\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\Teacher\Downloads\Model\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Downloads\Model\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Teacher\Downloads\Model\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Teacher\Downloads\Model\ViewModel\bin\Debug\housekeeper_final.accdb
+C:\Users\Teacher\Downloads\Model\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Teacher\Downloads\Model\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Teacher\Downloads\Model\ViewModel\bin\Debug\Model.dll
+C:\Users\Teacher\Downloads\Model\ViewModel\bin\Debug\Model.pdb
+C:\Users\Teacher\Downloads\Model\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+D:\Model\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+D:\Model\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\Model\ViewModel\obj\Debug\ViewModel.dll
+D:\Model\ViewModel\obj\Debug\ViewModel.pdb
+D:\Model\ViewModel\bin\Debug\housekeeper_final.accdb
+D:\Model\ViewModel\bin\Debug\ViewModel.dll
+D:\Model\ViewModel\bin\Debug\ViewModel.pdb
+D:\Model\ViewModel\bin\Debug\Model.dll
+D:\Model\ViewModel\bin\Debug\Model.pdb
+D:\Model\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\Teacher\Desktop\Model121\ViewModel\bin\Debug\housekeeper_final.accdb
+C:\Users\Teacher\Desktop\Model121\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\Model121\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Teacher\Desktop\Model121\ViewModel\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\Model121\ViewModel\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\Model121\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\Model121\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\Model121\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\Teacher\Desktop\Model121\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\Model121\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\ViewModel\bin\Debug\housekeeper_final.accdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\ViewModel\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\ViewModel\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\ViewModel\obj\Debug\ViewModel.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\ViewModel\bin\Debug\housekeeper_final.accdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\ViewModel\bin\Debug\ViewModel.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\ViewModel\bin\Debug\ViewModel.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\ViewModel\bin\Debug\Model.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\ViewModel\bin\Debug\Model.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\ViewModel\obj\Debug\ViewModel.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\ViewModel\obj\Debug\ViewModel.pdb

@@ -1,0 +1,24 @@
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\housekeeper_final.accdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\Model.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\ViewModel.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\Model.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\ViewModel.pdb
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CopyComplete
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\Users\Teacher\Desktop\WCFProject\WCFProject\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\housekeeper_final.accdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\Model.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\ViewModel.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\Model.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\bin\Debug\ViewModel.pdb
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CopyComplete
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+D:\פרויקט הנדסת תוכנה\Project1\WCFProject\WCFProject\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

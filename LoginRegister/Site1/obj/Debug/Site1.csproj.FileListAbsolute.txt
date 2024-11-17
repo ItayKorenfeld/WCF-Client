@@ -1,0 +1,119 @@
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\Site1.dll.config
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\Site1.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\Site1.pdb
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\csc.exe
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\csc.exe.config
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\csc.rsp
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\csi.exe
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\csi.exe.config
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\csi.rsp
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.AppContext.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Console.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\vbc.exe
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\vbc.exe.config
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\vbc.rsp
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Teacher\Desktop\LoginRegister\Site1\obj\Debug\Site1.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\LoginRegister\Site1\obj\Debug\Site1.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\LoginRegister\Site1\obj\Debug\Site1.csproj.CopyComplete
+C:\Users\Teacher\Desktop\LoginRegister\Site1\obj\Debug\Site1.dll
+C:\Users\Teacher\Desktop\LoginRegister\Site1\obj\Debug\Site1.pdb
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\LoginRegister.exe
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\LoginRegister.pdb
+C:\Users\Teacher\Desktop\LoginRegister\Site1\bin\LoginRegister.exe.config
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\Site1.dll.config
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\Site1.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\Site1.pdb
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\csc.exe
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\csc.exe.config
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\csc.rsp
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\csi.exe
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\csi.exe.config
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\csi.rsp
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.AppContext.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Collections.Immutable.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Console.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.IO.Compression.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.IO.FileSystem.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.IO.Pipes.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Reflection.Metadata.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Security.AccessControl.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Security.Claims.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.ValueTuple.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Xml.XPath.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\vbc.exe
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\vbc.exe.config
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\vbc.rsp
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\VBCSCompiler.exe
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\roslyn\VBCSCompiler.exe.config
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\LoginRegister.exe
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\LoginRegister.pdb
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\LoginRegister.exe.config
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\obj\Debug\Site1.csprojAssemblyReference.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\obj\Debug\Site1.csproj.CoreCompileInputs.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\obj\Debug\Site1.csproj.CopyComplete
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\obj\Debug\Site1.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\obj\Debug\Site1.pdb
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\Site1\bin\Xceed.Wpf.Toolkit.dll

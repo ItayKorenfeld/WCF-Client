@@ -1,0 +1,14 @@
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+D:\פרויקט הנדסת תוכנה\Project1\LoginRegister\App1\App1\obj\Debug\netstandard2.0\App1.pdb
